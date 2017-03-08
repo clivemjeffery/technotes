@@ -1,2 +1,3 @@
 # Tech Notes
-Technical notes and howtos
+
+[How to preview text files in Windows Explorer](one_moment.md)
